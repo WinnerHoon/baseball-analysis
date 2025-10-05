@@ -2,7 +2,6 @@
  This is a baseball analysis site that uses basic KBO data created by myself.
 
 site
-
 kbo analysis
 
 타자기록/투수기록--------------------------선수기록검색
