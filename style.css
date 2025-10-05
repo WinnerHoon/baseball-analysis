@@ -1,3 +1,17 @@
-p{
-color: blue;
+h1{color:red;}
+.mode{color:blue;}
+.caption::before {
+    content: "🔥 ";
+    font-weight: bold;
+    color: red;
+}
+.caption {
+    font-weight: bold;   /* strong 효과와 동일 */
+    color: #333;
+    font-size: 20px;
+}
+.caption::after {
+    content: " 🔥";
+    font-weight: bold;
+    color: red;
 }
